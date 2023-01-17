@@ -53,22 +53,22 @@ p.small {
     @apply text-xs leading-normal font-extralight;
 }
 
-h1 p {
+h1 + p {
     @apply text-lg font-black;
 }
 
-h2 p {
+h2 + p {
     @apply text-lg font-bold;
 }
 
-h3 p {
+h3 + p {
     @apply text-base font-semibold;
 }
-h4 p {
+h4 + p {
     @apply text-base font-medium;
 }
 
-h5 p {
+h5 + p {
     @apply text-sm font-medium;
 }
 
