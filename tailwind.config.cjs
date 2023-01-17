@@ -3,7 +3,7 @@ module.exports = {
   content: ['src/**/*.{html,svelte}'],
   theme: {
     fontFamily: {
-      sans: ['GolosText', 'sans-serif'],
+      sans: ['Sora', 'sans-serif'],
     },
     boxShadow: {
       DEFAULT:

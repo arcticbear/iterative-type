@@ -41,10 +41,8 @@
 */
 
 @font-face {
-  font-family: 'Sora-Variable';
-  src: url('./Sora-Variable.woff2') format('woff2'),
-       url('./Sora-Variable.woff') format('woff'),
-       url('./Sora-Variable.ttf') format('truetype');
+  font-family: 'Sora';
+  src: url('./Sora-Variable.woff2') format('woff2');
        font-weight: 100 800;
        font-display: swap;
        font-style: normal;
@@ -62,17 +60,16 @@
 
 */
 
+
 @font-face {
-  font-family: 'Sora-VariableItalic';
-  src: url('./Sora-VariableItalic.woff2') format('woff2'),
-       url('./Sora-VariableItalic.woff') format('woff'),
-       url('./Sora-VariableItalic.ttf') format('truetype');
+  font-family: 'Sora-Italic';
+  src: url('./Sora-VariableItalic.woff2') format('woff2');
        font-weight: 100 800;
        font-display: swap;
        font-style: italic;
 }
 
-
+/*
 @font-face {
   font-family: 'Sora-Thin';
   src: url('./Sora-Thin.woff2') format('woff2'),
@@ -248,3 +245,4 @@
        font-style: italic;
 }
 
+*/

@@ -1,8 +1,10 @@
-@import url("../static/Golos-Text/Golos-Text_Regular.css");
+/*
+@import url("../static/Sora/Golos-Text_Regular.css");
 @import url("../static/Golos-Text/Golos-Text_Medium.css");
 @import url("../static/Golos-Text/Golos-Text_DemiBold.css");
 @import url("../static/Golos-Text/Golos-Text_Bold.css");
 @import url("../static/Golos-Text/Golos-Text_Black.css");
+*/
 
 @tailwind base;
 @tailwind components;
