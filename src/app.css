@@ -37,7 +37,7 @@ h2, h3 {
 }
 
 h4, h5 {
-    @apply font-semibold;
+    @apply font-medium;
 }
 
 p {
@@ -51,6 +51,25 @@ p.lead {
 
 p.small {
     @apply text-xs leading-normal font-extralight;
+}
+
+h1 p {
+    @apply text-lg font-bold;
+}
+
+h2 p {
+    @apply text-lg font-semibold;
+}
+
+h3 p {
+    @apply text-base font-semibold;
+}
+h4 p {
+    @apply text-base font-medium;
+}
+
+h5 p {
+    @apply text-sm font-medium;
 }
 
 h1 {
