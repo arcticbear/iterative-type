@@ -37,7 +37,7 @@ h2, h3 {
 }
 
 h4, h5 {
-    @apply font-bold;
+    @apply font-semibold;
 }
 
 p {
@@ -50,7 +50,7 @@ p.lead {
 }
 
 p.small {
-    @apply text-xs leading-normal;
+    @apply text-xs leading-normal font-normal;
 }
 
 h1 {
