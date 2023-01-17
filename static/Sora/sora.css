@@ -1,0 +1,250 @@
+/**
+ * @license
+ *
+ * Font Family: Sora
+ * Designed by: Jonathan Barnbrook, Julián Moncada
+ * URL: https://www.fontshare.com/sora
+ * © 2022 Indian Type Foundry
+ *
+ * Font Styles:
+ * Sora Variable(Variable font)
+ * Sora Variable Italic(Variable font)
+ * Sora Thin
+ * Sora Thin Italic
+ * Sora Extra Light
+ * Sora Extra Light Italic
+ * Sora Light
+ * Sora Light Italic
+ * Sora Regular
+ * Sora Italic
+ * Sora Medium
+ * Sora Medium Italic
+ * Sora Semi Bold
+ * Sora Semi Bold Italic
+ * Sora Bold
+ * Sora Bold Italic
+ * Sora Extra Bold
+ * Sora Extra Bold Italic
+ *
+*/
+
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 400.0;
+*
+* available axes:
+
+* 'wght' (range from 100.0 to 800.0)
+
+*/
+
+@font-face {
+  font-family: 'Sora-Variable';
+  src: url('./Sora-Variable.woff2') format('woff2'),
+       url('./Sora-Variable.woff') format('woff'),
+       url('./Sora-Variable.ttf') format('truetype');
+       font-weight: 100 800;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 400.0;
+*
+* available axes:
+
+* 'wght' (range from 100.0 to 800.0)
+
+*/
+
+@font-face {
+  font-family: 'Sora-VariableItalic';
+  src: url('./Sora-VariableItalic.woff2') format('woff2'),
+       url('./Sora-VariableItalic.woff') format('woff'),
+       url('./Sora-VariableItalic.ttf') format('truetype');
+       font-weight: 100 800;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-Thin';
+  src: url('./Sora-Thin.woff2') format('woff2'),
+       url('./Sora-Thin.woff') format('woff'),
+       url('./Sora-Thin.ttf') format('truetype');
+       font-weight: 100;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-ThinItalic';
+  src: url('./Sora-ThinItalic.woff2') format('woff2'),
+       url('./Sora-ThinItalic.woff') format('woff'),
+       url('./Sora-ThinItalic.ttf') format('truetype');
+       font-weight: 100;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-ExtraLight';
+  src: url('./Sora-ExtraLight.woff2') format('woff2'),
+       url('./Sora-ExtraLight.woff') format('woff'),
+       url('./Sora-ExtraLight.ttf') format('truetype');
+       font-weight: 200;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-ExtraLightItalic';
+  src: url('./Sora-ExtraLightItalic.woff2') format('woff2'),
+       url('./Sora-ExtraLightItalic.woff') format('woff'),
+       url('./Sora-ExtraLightItalic.ttf') format('truetype');
+       font-weight: 200;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-Light';
+  src: url('./Sora-Light.woff2') format('woff2'),
+       url('./Sora-Light.woff') format('woff'),
+       url('./Sora-Light.ttf') format('truetype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-LightItalic';
+  src: url('./Sora-LightItalic.woff2') format('woff2'),
+       url('./Sora-LightItalic.woff') format('woff'),
+       url('./Sora-LightItalic.ttf') format('truetype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-Regular';
+  src: url('./Sora-Regular.woff2') format('woff2'),
+       url('./Sora-Regular.woff') format('woff'),
+       url('./Sora-Regular.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-Italic';
+  src: url('./Sora-Italic.woff2') format('woff2'),
+       url('./Sora-Italic.woff') format('woff'),
+       url('./Sora-Italic.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-Medium';
+  src: url('./Sora-Medium.woff2') format('woff2'),
+       url('./Sora-Medium.woff') format('woff'),
+       url('./Sora-Medium.ttf') format('truetype');
+       font-weight: 500;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-MediumItalic';
+  src: url('./Sora-MediumItalic.woff2') format('woff2'),
+       url('./Sora-MediumItalic.woff') format('woff'),
+       url('./Sora-MediumItalic.ttf') format('truetype');
+       font-weight: 500;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-SemiBold';
+  src: url('./Sora-SemiBold.woff2') format('woff2'),
+       url('./Sora-SemiBold.woff') format('woff'),
+       url('./Sora-SemiBold.ttf') format('truetype');
+       font-weight: 600;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-SemiBoldItalic';
+  src: url('./Sora-SemiBoldItalic.woff2') format('woff2'),
+       url('./Sora-SemiBoldItalic.woff') format('woff'),
+       url('./Sora-SemiBoldItalic.ttf') format('truetype');
+       font-weight: 600;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-Bold';
+  src: url('./Sora-Bold.woff2') format('woff2'),
+       url('./Sora-Bold.woff') format('woff'),
+       url('./Sora-Bold.ttf') format('truetype');
+       font-weight: 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-BoldItalic';
+  src: url('./Sora-BoldItalic.woff2') format('woff2'),
+       url('./Sora-BoldItalic.woff') format('woff'),
+       url('./Sora-BoldItalic.ttf') format('truetype');
+       font-weight: 700;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sora-ExtraBold';
+  src: url('./Sora-ExtraBold.woff2') format('woff2'),
+       url('./Sora-ExtraBold.woff') format('woff'),
+       url('./Sora-ExtraBold.ttf') format('truetype');
+       font-weight: 800;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Sora-ExtraBoldItalic';
+  src: url('./Sora-ExtraBoldItalic.woff2') format('woff2'),
+       url('./Sora-ExtraBoldItalic.woff') format('woff'),
+       url('./Sora-ExtraBoldItalic.ttf') format('truetype');
+       font-weight: 800;
+       font-display: swap;
+       font-style: italic;
+}
+
