@@ -46,11 +46,11 @@ p {
 }
 
 p.lead {
-    @apply text-base text-slate-400 max-w-lg;
+    @apply text-base text-slate-400 max-w-lg font-normal;
 }
 
 p.small {
-    @apply text-xs leading-normal font-normal;
+    @apply text-xs leading-normal font-light;
 }
 
 h1 {
