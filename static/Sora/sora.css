@@ -41,13 +41,68 @@
 */
 
 @font-face {
-  font-family: 'Sora';
+  font-family: 'Sora-Thin';
   src: url('./Sora-Variable.woff2') format('woff2');
-       font-weight: 100 800;
+       font-weight: 100;
        font-display: swap;
        font-style: normal;
 }
 
+@font-face {
+  font-family: 'Sora-ExtraLight';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 200;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sora-Light';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 300;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sora-Normal';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sora-Medium';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 500;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sora-Bold';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sora-ExtraBold';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 800;
+       font-display: swap;
+       font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sora-Black';
+  src: url('./Sora-Variable.woff2') format('woff2');
+       font-weight: 900;
+       font-display: swap;
+       font-style: normal;
+}
 
 /**
 * This is a variable font
