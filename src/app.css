@@ -6,6 +6,8 @@
 @import url("../static/Golos-Text/Golos-Text_Black.css");
 */
 
+@import url("../static/Sora/sora.css");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
