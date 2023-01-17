@@ -50,7 +50,7 @@ p.lead {
 }
 
 p.small {
-    @apply text-xs leading-normal font-light;
+    @apply text-xs leading-normal font-extralight;
 }
 
 h1 {
