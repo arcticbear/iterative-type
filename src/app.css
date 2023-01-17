@@ -54,11 +54,11 @@ p.small {
 }
 
 h1 p {
-    @apply text-lg font-bold;
+    @apply text-lg font-black;
 }
 
 h2 p {
-    @apply text-lg font-semibold;
+    @apply text-lg font-bold;
 }
 
 h3 p {
